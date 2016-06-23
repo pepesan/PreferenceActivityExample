@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory android:title="Notification options" >
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="com.lagoman.preferenceactivityexample.SettingsActivity.preference_notification_on"
+            android:summary="Get notified when you recieve message"
+            android:title="Turn notifications on" />
+
+        <ListPreference
+            android:defaultValue="1"
+            android:entries="@array/pref_notification_time_entries"
+            android:entryValues="@array/pref_notification_time_values"
+            android:key="com.lagoman.preferenceactivityexample.SettingsActivity.preference_display_options_dim_images"
+            android:summary="Choose when to be notified"
+            android:title="Time of notification" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/pepesan/Downloads/PreferenceActivityExample1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="91e6897a5d7c2a1ca49778014bcb0cf26d0e60b8">
+        <dex dex="/Users/pepesan/Downloads/PreferenceActivityExample1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f31370757a9f216044993be0279afa21cc5d6d21/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pepesan/Downloads/PreferenceActivityExample1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="a3c17fe072bc684447ea5b50dd51ddb34fcd56b8">
+        <dex dex="/Users/pepesan/Downloads/PreferenceActivityExample1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4d142d3a67406159705c25920bac2cf2f0a61968/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pepesan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/pepesan/Downloads/PreferenceActivityExample1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-21.0.3_d9d0d25c0506a79a49f99cdbf791e9553aff306a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pepesan/Downloads/PreferenceActivityExample1/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/pepesan/Downloads/PreferenceActivityExample1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-21.0.3_e0df28874eb3462de788d75e13cf1560ff8a3107/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pepesan/Downloads/PreferenceActivityExample1/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/pepesan/Downloads/PreferenceActivityExample1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-21.0.3_b421314a67c58991cb2df4bede3d6a0b6f7a74de/classes.dex" />
+    </item>
+
+</items>

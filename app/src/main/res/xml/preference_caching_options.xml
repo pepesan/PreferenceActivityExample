@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory android:title="Our portfolio" >
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="com.lagoman.preferenceactivityexample.SettingsActivity.preference_caching_on"
+            android:summary="Cache images"
+            android:title="To speed up things" />
+
+        <Preference
+            android:key="com.lagoman.preferenceactivityexample.SettingsActivity.clear_cache"
+            android:title="Clear cache" />
+    </PreferenceCategory>
+
+</PreferenceScreen>
